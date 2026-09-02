@@ -1,0 +1,41 @@
+Category,Occupation,Major group,Employment Nov 2025 (000),3 year change (000),3 year change (%),Working part-time (%),Female (%),Aged 15 to 24 (%),Unemployment rate 2025,Median earnings,Skill level,Projected employment change to May 2030 (%)
+"Accounting, Banking and Financial Services",Accountants,P,225.1,25.1,12.5,16,54,4.4,Below Average,$$$,1,8.4
+"Accounting, Banking and Financial Services",Accounting Clerks,CA,143.5,7.0,5.1,30,80,6.4,Average,$$,4,1.3
+"Accounting, Banking and Financial Services",Economists,P,4.5,-0.4,-8.4,10,36,6.5,Above Average,$$$$$,1,15.7
+"Accounting, Banking and Financial Services",Finance Managers,M,77.4,6.5,9.2,12,53,0.4,Below Average,$$$$$,1,12.4
+"Accounting, Banking and Financial Services",Financial Brokers,P,52.4,10.6,25.4,15,40,5.8,Average,$$$$,2,6.0
+Administration and Human Resources,"Archivists, Curators and Records Managers",P,9.6,1.4,16.6,31,82,7.0,Below Average,$$$$,1,17.3
+Administration and Human Resources,"Contract, Program and Project Administrators",CA,161.3,15.4,10.5,11,57,3.5,Average,$$$$,2,9.5
+Administration and Human Resources,General Clerks,CA,286.6,-13.0,-4.3,40,81,11.6,Average,$$,4,11.3
+Administration and Human Resources,Human Resource Managers,M,91.7,0.3,0.4,11,59,0.6,Average,$$$$$,1,12.4
+Administration and Human Resources,Management and Organisation Analysts,P,109.6,10.7,10.8,17,48,5.0,Average,$$$$,1,16.2
+Administration and Human Resources,Receptionists,CA,182.6,-1.1,-0.6,57,89,26.8,Average,$,4,2.1
+"Advertising, Public Relations, Media and Arts",Advertising and Marketing Professionals,P,102.5,11.5,12.7,18,63,8.6,Above Average,$$$,1,12.6
+"Advertising, Public Relations, Media and Arts","Graphic and Web Designers, and Illustrators",P,58.7,3.1,5.5,22,53,8.1,Above Average,$$$,1,9.9
+"Advertising, Public Relations, Media and Arts",Public Relations Professionals,P,32.5,4.6,16.6,26,70,10.7,Above Average,$$$,1,12.3
+"Agriculture, Animal and Horticulture",Animal Attendants and Trainers,TT,27.8,5.1,22.4,48,74,26.4,Average,$,4,5.1
+"Agriculture, Animal and Horticulture",Veterinarians,P,16.2,3.4,26.6,27,63,1.7,Below Average,$$$$,1,9.1
+"Agriculture, Animal and Horticulture",Veterinary Nurses,TT,16.9,2.3,15.5,42,96,23.8,Below Average,$$,3,5.9
+"Automotive, Transport and Logistics",Delivery Drivers,MO,84.9,4.1,5.0,49,15,17.2,Above Average,$,4,13.1
+"Automotive, Transport and Logistics",Motor Mechanics,TT,109.9,2.6,2.4,9,3,26.5,Average,$$,3,2.7
+"Automotive, Transport and Logistics",Purchasing and Supply Logistics Clerks,CA,126.9,22.2,21.2,20,45,11.4,Average,$$,4,5.4
+"Construction, Architecture and Design",Carpenters and Joiners,TT,149.9,9.7,6.9,11,3,30.3,Below Average,$$$,3,6.4
+"Construction, Architecture and Design",Civil Engineering Professionals,P,74.4,4.7,6.7,7,13,9.3,Average,$$$$,1,11.6
+"Construction, Architecture and Design",Construction Managers,M,134.6,11.1,9.0,7,11,3.7,Below Average,$$$$$,1,14.9
+Education and Training,Early Childhood (Pre-primary School) Teachers,P,75.2,15.6,26.1,43,95,13.8,Average,$$$,1,5.7
+Education and Training,Education Aides,CP,136.7,20.9,18.0,69,87,16.7,Below Average,$,4,5.0
+Education and Training,Primary School Teachers,P,167.4,5.1,3.2,37,82,5.4,Below Average,$$$$,1,5.5
+Education and Training,Secondary School Teachers,P,158.5,13.2,9.1,23,58,4.7,Below Average,$$$$,1,5.4
+Electrical and Electronics,Electrical Engineers,P,34.1,7.6,28.7,8,13,13.3,Below Average,$$$$,1,12.0
+Electrical and Electronics,Electricians,TT,195.9,22.7,13.1,6,3,26.8,Below Average,$$$$,3,6.7
+Engineers and Engineering Trades,Mining Engineers,P,16.2,2.8,21.4,7,15,5.0,Above Average,$$$$$,1,11.2
+Health and Community Services,Nursing Support and Personal Care Workers,CP,113.2,15.3,15.6,53,74,14.5,Below Average,$$,4,13.8
+Health and Community Services,Occupational Therapists,P,34.2,8.0,30.3,37,92,14.0,Below Average,$$$,1,18.8
+Health and Community Services,Physiotherapists,P,45.9,8.1,21.6,28,58,6.7,Below Average,$$$,1,19.7
+Health and Community Services,Psychologists,P,53.1,13.0,32.6,50,82,4.0,Below Average,$$$$,1,16.8
+Health and Community Services,Registered Nurses,P,362.9,40.5,12.5,44,86,8.3,Below Average,$$$$,1,13.7
+Information and Communication Technology (ICT),"Database and Systems Administrators, and ICT Security Specialists",P,72.3,10.6,17.2,8,24,3.5,Above Average,$$$$,1,14.0
+Information and Communication Technology (ICT),ICT Business and Systems Analysts,P,51.5,4.2,8.9,10,38,0.9,Above Average,$$$$$,1,15.1
+Information and Communication Technology (ICT),ICT Managers,M,98.6,17.7,21.9,6,25,0.7,Average,$$$$$,1,15.0
+Information and Communication Technology (ICT),Multimedia Specialists and Web Developers,P,11.9,-2.1,-15.2,11,28,0.7,Above Average,$$$$,1,15.9
+Information and Communication Technology (ICT),Software and Applications Programmers,P,195.4,33.6,20.8,6,21,5.9,Average,$$$$,1,15.7
