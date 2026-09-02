@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Understand the CareerCompass AU dataset, definitions, methodology and limitations." name="description"/>
+<title>Data &amp; Methodology | CareerCompass AU</title>
+<link href="css/styles.css" rel="stylesheet"/>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<header class="site-header">
+<div class="container nav-shell">
+<a aria-label="CareerCompass AU home" class="brand" href="insights.html">
+<span aria-hidden="true" class="brand-mark">CC</span>
+<span><strong>CareerCompass</strong><small>AU</small></span>
+</a>
+<nav aria-label="Primary navigation" class="desktop-nav"><a href="insights.html">Labour Market Insights</a><a href="data.html">Data &amp; Methodology</a></nav>
+<details class="mobile-nav">
+<summary aria-label="Open navigation">Menu</summary>
+<div class="mobile-nav-panel"><a href="insights.html">Labour Market Insights</a><a href="data.html">Data &amp; Methodology</a></div>
+</details>
+</div>
+</header>
+<main id="main-content">
+<section class="page-hero"><div class="container page-hero-grid"><div><p class="breadcrumb"><span>CareerCompass AU</span> / Data &amp; Methodology</p><h1>Data &amp; methodology</h1><p>Understand where CareerCompass AU gets its information, what each measure means, and the limits that should guide responsible interpretation.</p></div><div class="page-badge"><span>Primary dataset</span><strong>Australian Jobs 2026</strong></div></div></section>
+<section class="section"><div class="container content-grid"><article class="prose">
+<h2>Dataset source</h2><p>CareerCompass AU uses the <strong>Australian Jobs 2026 – Occupation Matrix</strong>, published by Jobs and Skills Australia. The Matrix provides summary statistical information for around 330 occupations grouped into 21 broad fields of work.</p>
+<p><a class="button button-dark" href="https://www.jobsandskills.gov.au/research/australian-jobs" rel="noopener noreferrer" target="_blank">Open official source ↗</a></p>
+<h2>How the website integrates the data</h2><div class="steps"><div class="step"><h3>1. Official CSV</h3><p>The source dataset is retained in CSV format to preserve provenance and keep the project easy to inspect.</p></div><div class="step"><h3>2. Browser loads the file</h3><p>A small JavaScript function reads the CSV when a data-driven page opens.</p></div><div class="step"><h3>3. Values are interpreted</h3><p>Missing values are treated as unavailable rather than zero, and occupation indicators are converted into clear display labels.</p></div><div class="step"><h3>4. HTML updates dynamically</h3><p>Search results, comparison tables and summary views are created from the loaded records.</p></div></div>
+<h2>Measure definitions</h2><dl class="definition-list"><div><dt>Employment</dt><dd>Total people employed in the occupation at November 2025, including full-time and part-time workers.</dd></div><div><dt>3-year employment change</dt><dd>Change in employment levels and percentage change over the three years to November 2025.</dd></div><div><dt>Working part-time</dt><dd>Share of workers working fewer than 35 hours per week.</dd></div><div><dt>Female / aged 15–24</dt><dd>Share of people employed in the occupation who are female or aged 15 to 24 respectively.</dd></div><div><dt>Unemployment rate</dt><dd>Presented as below average, average or above average relative to the 2025 occupation average.</dd></div><div><dt>Median earnings</dt><dd>Indicative weekly earnings bands before tax for full-time workers. Exact personal earnings cannot be inferred.</dd></div><div><dt>Skill level</dt><dd>Five levels describing the range and complexity of occupational tasks and typical qualification equivalence.</dd></div><div><dt>Projected employment change</dt><dd>Percentage change in employment projected over the five years to May 2030.</dd></div></dl>
+<h2>Key limitations</h2><ul><li>Labour-market conditions can change after publication.</li><li>National figures may not represent a particular local labour market.</li><li>Projected growth does not show the number of applicants competing for jobs.</li><li>Earnings bands are indicative and cannot predict an individual's pay.</li><li>Some occupations have unavailable values, which CareerCompass displays as “Not available”.</li><li>Career decisions should also consider interests, aptitude, working conditions, goals and current training requirements.</li></ul>
+</article><aside class="side-panel"><h2>Dataset facts</h2><ul><li>Publisher: Jobs and Skills Australia</li><li>Publication: 30 June 2026</li><li>Format: CSV</li><li>Approx. 330 occupations</li><li>21 career groupings</li><li>Employment reference: Nov 2025</li><li>Projection horizon: May 2030</li></ul></aside></div></section>
+<section class="section surface"><div class="container"><div class="notice"><strong>Responsible-use principle:</strong> CareerCompass AU presents the Matrix as background evidence. It deliberately avoids language suggesting that any occupation guarantees employment, salary or personal suitability.</div></div></section>
+</main>
+<footer class="site-footer"><div class="container footer-grid"><div><a class="brand brand-footer" href="insights.html"><span aria-hidden="true" class="brand-mark">CC</span><span><strong>CareerCompass</strong><small>AU</small></span></a><p>Explore Australian occupations using official labour-market information from Jobs and Skills Australia.</p></div></div><div class="container footer-bottom"><p>© 2026 CareerCompass AU. Student web project.</p><p>Labour-market information is indicative and should not be used as the sole basis for career decisions.</p></div></footer>
+<script defer="True" src="js/shared-data.js"></script><script defer="True" src="js/member-pages.js"></script></body>
+</html>
